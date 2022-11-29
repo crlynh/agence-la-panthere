@@ -1,6 +1,6 @@
 # PROJET 4 - AGENCE LA PANTHERE
 
-## Objectif du projet : Optimisez un site web existant
+## Objectif du projet : Optimiser un site web existant
 
 L’activité de l’agence La Panthère a bien démarré mais aujourd’hui, elle est en perte de vitesse. 
 En tapant “Entreprise web design Lyon” sur Internet, la fondadrice de l'agence s’aperçoit que le site apparaît seulement en 
